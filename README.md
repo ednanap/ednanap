@@ -1,7 +1,6 @@
 ## Hello!! Welcome to my github  👋
 
-<!--
-**ednanap/ednanap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 class Person:
     def __init__(self, name, age, occupation, interests):
